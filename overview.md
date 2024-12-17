@@ -35,15 +35,15 @@
 
 - フロントエンド
 
- - ユニットテスト (Jest, React Testing Library)
+ 　- ユニットテスト (Jest, React Testing Library)
 
- - E2Eテスト (Cypress, Playwright)
+ 　- E2Eテスト (Cypress, Playwright)
 
 - バックエンド
 
- - ユニットテスト (Jest, Supertest)
+ 　- ユニットテスト (Jest, Supertest)
 
- - APIテスト (Postman, Newman)
+　 - APIテスト (Postman, Newman)
 
 ---
 
