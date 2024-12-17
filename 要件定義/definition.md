@@ -9,6 +9,7 @@
 ## 2. API仕様 (概要)
 
 | メソッド | エンドポイント | 機能 | 認証 |
+| ---- | ---- | ---- | ---- |
 | POST | /api/auth/register | ユーザー登録 | 必要なし |
 | POST | /api/auth/login | ログイン | 必要なし |
 | POST | /api/auth/logout | ログアウト | 必要 |
